@@ -1,2 +1,0 @@
-# bartar-system
-Sass

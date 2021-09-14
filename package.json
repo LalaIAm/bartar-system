@@ -1,0 +1,17 @@
+{
+  "name": "@backlight-dev/trademeweb.sass-ktkdycg2",
+  "version": "0.0.0",
+  "description": "",
+  "license": "MIT",
+  "type": "module",
+  "homepage": "{{ homepage }}",
+  "scripts": {
+    "serve": "npx backlight@latest serve pIS4nJVrqji1dCaJ1YFk --open"
+  },
+  "devDependencies": {
+    "lit-html": "^1.4.1"
+  },
+  "dependencies": {
+    "@divriots/dockit-core": "^0.1.9"
+  }
+}

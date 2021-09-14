@@ -1,0 +1,19 @@
+{
+  "packages": {
+    "dir": "",
+    "menu": [
+      "introduction",
+      [
+        "tokens",
+        [
+          "fonts",
+          "colors"
+        ],
+        "base",
+        [
+          "buttons"
+        ]
+      ]
+    ]
+  }
+}
